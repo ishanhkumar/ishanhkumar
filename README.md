@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishanhkumar
-- 👀 I’m interested in Data Science and Software Engineering
+- 📊 I'm a Data Science and Software Engineering student at UNC Charlotte
 - 🌱 I’m currently learning Amazon Web Services
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 Reach me at ishan@ishan.in
